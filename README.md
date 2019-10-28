@@ -1,5 +1,7 @@
 # T.P.R.M.
 
+Necessita: .Net Core 3.0
+
 Descompactar o arquivo;
 Entre na pasta onde estiver localizado o arquivo "Program.cs".
 
